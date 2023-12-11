@@ -1,44 +1,52 @@
-**teste**
-
-*teste*
+# Business_Case_of_Fintech_Domains_Klarna #
 
 ---
 
-Theres a break lane above
-
-```python
-print(“Hello world”)
-```
-print(“Hello world”)
-
-
-
-
-# Business_Case_of_Fintech_Domains_Klarna
-EDITING TEST TO PUSH]
-testing testing
-test 
-test
-# Title
-Klarna and the FinTech domain of Payments ( BNPL) PSP
 ## Overview and Origin
 * What is the name of the company?
-Klarna
+
+The focus of this business case is in the Payments sector within the FinTech domain, and the company under consideration is Klarna.
+
 * When was the company incorporated?
-2005
+
+Klarna was incorporated in 2005 in Stockolmo, Sweden.
+
 * Who are the founders of the company?
-Sebastian Siemiatkowski, Niklas Adalberth, and Victor Jacobsson
+
+The founders of Klarna are Sebastian Siemiatkowski, Niklas Adalberth, and Victor Jacobsson.
+
 * How did the idea for the company (or project) come about?
-to make online payments easy and safe for consumers. But when they pitched their "Buy Now, Pay Later" idea at a Shark Tank-style competition in Stockholm, the judges dismissed it. “It would never work,” they said, “and if it would work, the banks would just do it themselves."
+
+Initially, the founders' concept faced a not enthusiastically response when they presented it during the Stockholm School of Economics annual entrepreneurship award in 2005, which adopted a format similar to Shark Tank. The event, marked the beginning of Klarna's journey as a FinTech player in the Payments sector.
 
 * How is the company funded? How much funding have they received?
+
+Klarna possesses support from 77 investors and successfully obtained significant funding through multiple investment rounds. Notable contributions have been made by venture capital firms and strategic investors,including the Canada Pension Plan Investiment Board and Spring St. Group. To date, Klarna has raised the amount to $4.5B.
+
 
 ## Business Activities
 * What specific financial problem is the company or project trying to solve?
 
+Klarna aims to provide a shopping process that ensure a positive experience for customers, incorporating elements such as flexibility and agility into the shopping experience.
+
+The platform empowers customers to decide when and how they want to pay. In addition, as a regulated bank known for its “buy now, pay later” model, it offers shoppers interest-free financing for retail purchases over a period of instalments. 
+
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
+Klarna can be used for anyone over 18 years old. The company has noticed a rise in demand for its services among Generation Z and young adults as their spending power has increased. This demographic is actively seeking payment flexibility.
+
+According to the company, over 61% of the individuals aged 18 to 24 stated  that they utilized a Buy Now-Pay Later (BNPL)service in 2021. This marks a significant increase from the roughly 38% reported in a prior survey conducted in 2020.
+
+This pattern underscores the increasing popularity and adoption of Klarna's payment choices among the younger demographic, pointing to a significant market potential.
+
+As of November 2023, the company's  market presence corrrespond to 150 million active users  globally, with 2 million transactions daily. This icludes a network of 500,000 retail partners, and a customer base of 37 million. In the US alone, the company collaborates with 26,000 reail partners, featuring names as Macy's, Nike, AirBnb, Instacart, and recent additions like StubHub, Timex, and Cole Haan.
+
+
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+While Klarna is recognized as a pioneer of transparent, interest-free BNPL services, the company continues to evolve its range of products to cover all phases of the shopping journey, from discovery to checkout. Today, Klarna offers US consumers a suite of fair, flexible payment options enabling them to pay now, pay later, or pay over time; along with several shopping services including the Klarna App, which has been unbeaten as the #1 BNPL app in the US2 and has become a go-to shopping destination for over 7 million active monthly users in the market. 
+
+Klarna is a recognized growth partner for retailers, offering payment options that increase consumer trust, loyalty, and conversion alongside unique marketing and advertising solutions that drive measurable growth. Today, 79 of the top 100 US retailers partner with Klarna for payments, consumer acquisition and marketing.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
